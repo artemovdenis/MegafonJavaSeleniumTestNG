@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Jun 17 22:24:27 GMT 2024","Mon Jun 17 22:24:27 GMT 2024","9","CrossBrowser Test Suite","ChromeTest","com.megafontest.FrameworkTest","com.megafontest.FrameworkTest","testPass","testPass",""
+"passed","Tue Jun 18 11:58:03 GMT 2024","Tue Jun 18 11:58:03 GMT 2024","9","CrossBrowser Test Suite","ChromeTest","com.megafontest.FrameworkTest","com.megafontest.FrameworkTest","testPass","testPass",""
