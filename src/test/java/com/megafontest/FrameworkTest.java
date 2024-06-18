@@ -9,4 +9,9 @@ public class FrameworkTest {
 
         Assert.assertTrue(true);
     }
+    @Test
+    public void testPass2() {
+
+        Assert.assertTrue(true);
+    }
 }
