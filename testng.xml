@@ -8,5 +8,4 @@
             <class name="com.megafontest.FrameworkTest"/>
         </classes>
     </test>
-
 </suite>
