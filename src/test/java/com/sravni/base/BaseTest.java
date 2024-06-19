@@ -1,7 +1,7 @@
-package com.megafontest.base;
+package com.sravni.base;
 
-import com.megafontest.utils.DriverUtils;
-import com.megafontest.utils.ReportUtils;
+import com.sravni.utils.DriverUtils;
+import com.sravni.utils.ReportUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
