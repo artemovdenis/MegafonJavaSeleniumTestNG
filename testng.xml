@@ -4,8 +4,8 @@
     <test name="ChromeTest" verbose="10">
         <parameter name="browser" value="chrome"/>
         <classes>
+            <class name="com.megafontest.test.NavigationTest"/>
             <class name="com.megafontest.FrameworkTest"/>
         </classes>
     </test>
-
 </suite>
