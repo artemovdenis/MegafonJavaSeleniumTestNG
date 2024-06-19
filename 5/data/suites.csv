@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 19 23:04:19 GMT 2024","Wed Jun 19 23:04:23 GMT 2024","4164","CrossBrowser Test Suite","ChromeTest","com.megafontest.test.NavigationTest","com.megafontest.test.NavigationTest","testOpenBaseURL","testOpenBaseURL",""
+"passed","Wed Jun 19 23:04:23 GMT 2024","Wed Jun 19 23:04:23 GMT 2024","0","CrossBrowser Test Suite","ChromeTest","com.megafontest.FrameworkTest","com.megafontest.FrameworkTest","testPass","testPass",""
+"passed","Wed Jun 19 23:04:23 GMT 2024","Wed Jun 19 23:04:23 GMT 2024","1","CrossBrowser Test Suite","ChromeTest","com.megafontest.FrameworkTest","com.megafontest.FrameworkTest","testPass2","testPass2",""
