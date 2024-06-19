@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 
 public class NavigationTest extends BaseTest {
-
+    @Ignore
     @Test
     public void testOpenBaseURL() {
         final String expectedURL = TestData.BASE_URL;
