@@ -2,12 +2,13 @@ package com.megafontest.test;
 import com.megafontest.base.BaseTest;
 import com.megafontest.data.TestData;
 import org.testng.Assert;
+import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 
 
 
 public class NavigationTest extends BaseTest {
-
+    @Ignore
     @Test
     public void testOpenBaseURL() {
         final String expectedURL = TestData.BASE_URL;

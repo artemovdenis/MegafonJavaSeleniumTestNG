@@ -6,7 +6,7 @@ import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 
 public class FrameworkTest {
-    @Ignore
+
     @Test
     public void testPass() {
 
