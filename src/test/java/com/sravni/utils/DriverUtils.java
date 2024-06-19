@@ -1,4 +1,4 @@
-package com.megafontest.utils;
+package com.sravni.utils;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

@@ -1,4 +1,4 @@
-package com.megafontest.model;
+package com.sravni.model;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;

@@ -1,8 +1,7 @@
-package com.megafontest.test;
-import com.megafontest.base.BaseTest;
-import com.megafontest.data.TestData;
+package com.sravni.test;
+import com.sravni.base.BaseTest;
+import com.sravni.data.TestData;
 import org.testng.Assert;
-import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 
 

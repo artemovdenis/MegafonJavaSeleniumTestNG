@@ -1,4 +1,4 @@
-package com.megafontest;
+package com.sravni;
 
 import org.testng.Assert;
 
