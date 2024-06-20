@@ -17,4 +17,9 @@ public class FrameworkTest {
 
         Assert.assertTrue(true);
     }
+    @Test
+    public void testPass3() {
+
+        Assert.assertTrue(true);
+    }
 }
