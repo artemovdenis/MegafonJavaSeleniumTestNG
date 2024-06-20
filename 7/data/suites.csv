@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 20 00:00:11 GMT 2024","Thu Jun 20 00:00:11 GMT 2024","0","CrossBrowser Test Suite","ChromeTest","com.sravni.FrameworkTest","com.sravni.FrameworkTest","testPass","testPass",""
+"passed","Thu Jun 20 00:00:11 GMT 2024","Thu Jun 20 00:00:11 GMT 2024","0","CrossBrowser Test Suite","ChromeTest","com.sravni.FrameworkTest","com.sravni.FrameworkTest","testPass2","testPass2",""
+"passed","Thu Jun 20 00:00:08 GMT 2024","Thu Jun 20 00:00:11 GMT 2024","2971","CrossBrowser Test Suite","ChromeTest","com.sravni.test.NavigationTest","com.sravni.test.NavigationTest","testOpenBaseURL","testOpenBaseURL",""
